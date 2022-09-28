@@ -1,6 +1,6 @@
 # Hi, I'm Michael, a Computer Engineering Sophomore at UIUC. 
  
- I'll be posting projects that I've completed for classes or personal interest here.
+ I'll be using Github to document projects I've completed for classes or personal interest here. Note that some programs may have bugs
 
 # Classes Taken:
 
