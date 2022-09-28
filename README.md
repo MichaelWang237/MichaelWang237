@@ -1,6 +1,6 @@
-#Hi, I'm Michael, a Computer Engineering Sophomore at UIUC. I'll be posting projects that I've completed for classes or personal interest here.
+# Hi, I'm Michael, a Computer Engineering Sophomore at UIUC. I'll be posting projects that I've completed for classes or personal interest here.
 
-#Classes Taken:
+# Classes Taken:
 
 CS 225 - Data Structures (Fall 2022 - in progress)
 CS 173 - Discrete Structures (Summer 2022)
