@@ -20,7 +20,7 @@ ECE 120 - Introduction to Computing (Fall 2021)
 
 MATH 257 - Linear Algebra with Computational Applications (Summer 2022)
 
-MATH 285 - Introduction to Differential Equations.(Summer 2022)
+MATH 285 - Introduction to Differential Equations (Summer 2022)
 
 MATH 241 - Calculus III (Spring 2022)
 
