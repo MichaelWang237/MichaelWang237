@@ -1,4 +1,6 @@
-# Hi, I'm Michael, a Computer Engineering Sophomore at UIUC. I'll be posting projects that I've completed for classes or personal interest here.
+# Hi, I'm Michael, a Computer Engineering Sophomore at UIUC. 
+ 
+ I'll be posting projects that I've completed for classes or personal interest here.
 
 # Classes Taken:
 
@@ -31,7 +33,5 @@ PHYS 213 - University Physics: Thermal Physics (Fall 2022 - in progress)
 PHYS 212 - University Physics: Electricity and Magnetism (Spring 2022)
 
 PHYS 211 - University Physics: Mechanics (Fall 2021)
-
-
 
 (Last Updated 9/28/2022)
